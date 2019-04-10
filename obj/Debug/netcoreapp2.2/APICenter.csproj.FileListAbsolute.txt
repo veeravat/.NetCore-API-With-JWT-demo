@@ -1,0 +1,14 @@
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.csprojAssemblyReference.cache
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.csproj.CoreCompileInputs.cache
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.RazorAssemblyInfo.cache
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.RazorAssemblyInfo.cs
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.AssemblyInfoInputs.cache
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.AssemblyInfo.cs
+C:\Users\TuyMove\Desktop\APICenter\bin\Debug\netcoreapp2.2\APICenter.deps.json
+C:\Users\TuyMove\Desktop\APICenter\bin\Debug\netcoreapp2.2\APICenter.runtimeconfig.json
+C:\Users\TuyMove\Desktop\APICenter\bin\Debug\netcoreapp2.2\APICenter.runtimeconfig.dev.json
+C:\Users\TuyMove\Desktop\APICenter\bin\Debug\netcoreapp2.2\APICenter.dll
+C:\Users\TuyMove\Desktop\APICenter\bin\Debug\netcoreapp2.2\APICenter.pdb
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.RazorTargetAssemblyInfo.cache
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.dll
+C:\Users\TuyMove\Desktop\APICenter\obj\Debug\netcoreapp2.2\APICenter.pdb
